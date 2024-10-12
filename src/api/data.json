@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "pizza",
+        "image": "/pizza.png",
+        "items": [
+            {
+                "id": 1,
+                "name": "pizza mania",
+                "price": "20",
+                "image":"https://vegplatter.in/files/public/images/partner/catalog/125/Veggie%20Mania%20Pizza.png",
+                "variants": [
+                    {
+                        "tag": "small",
+                        "price": "15"
+                    },
+                    {
+                        "tag": "medium",
+                        "price": "20"
+                    },
+                    {
+                        "tag": "large",
+                        "price": "25"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "burger",
+        "image": "/burgur.png",
+        "items": [
+            {
+                "id": 2,
+                "name": "cheeseburger",
+                "price": "10",
+                "image":"https://png.pngtree.com/png-clipart/20230425/original/pngtree-burger-cheese-beef-transparent-png-image_9096453.png",
+                "variants": [
+                    {
+                        "tag": "single",
+                        "price": "10"
+                    },
+                    {
+                        "tag": "double",
+                        "price": "15"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "veggie burger",
+                "price": "8",
+                "image":"https://pngfile.net/public/uploads/preview/veg-burger-png-image-11703408255gkuhjrek36.png",
+                "variants": [
+                    {
+                        "tag": "regular",
+                        "price": "8"
+                    },
+                    {
+                        "tag": "large",
+                        "price": "12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "cold drink",
+        "image": "/coke.png",
+        "items": [
+            {
+                "id": 4,
+                "name": "soda",
+                "price": "2",
+                "image":"https://png.pngtree.com/png-clipart/20231002/original/pngtree-watercolor-lemon-soda-png-image_13067238.png",
+                "variants": [
+                    {
+                        "tag": "small",
+                        "price": "2"
+                    },
+                    {
+                        "tag": "large",
+                        "price": "4"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "juice",
+                "price": "3",
+                "image":"https://img.pikbest.com/origin/08/98/96/34YpIkbEsTmJM.png!sw800",
+                "variants": [
+                    {
+                        "tag": "orange",
+                        "price": "3"
+                    },
+                    {
+                        "tag": "apple",
+                        "price": "3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ice cream",
+        "image": "/ice cream.png",
+        "items": [
+            {
+                "id": 6,
+                "name": "vanilla ice cream",
+                "image":"https://r2.erweima.ai/imgcompressed/compressed_531bf6eb37a149db3064d027e562166d.webp",
+                "price": "5",
+                "variants": [
+                    {
+                        "tag": "single scoop",
+                        "price": "5"
+                    },
+                    {
+                        "tag": "double scoop",
+                        "price": "8"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "chocolate ice cream",
+                "price": "6",
+                "image":"https://png.pngtree.com/png-vector/20240225/ourmid/pngtree-chocolate-ice-cream-in-the-white-glass-bowl-ai-generated-png-image_11875876.png",
+                "variants": [
+                    {
+                        "tag": "single scoop",
+                        "price": "6"
+                    },
+                    {
+                        "tag": "double scoop",
+                        "price": "9"
+                    }
+                ]
+            }
+        ]
+    }
+]
